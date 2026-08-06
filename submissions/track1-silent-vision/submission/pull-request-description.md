@@ -43,7 +43,7 @@ with a creator workflow, but that integration is not claimed here.
   `submissions/track1-silent-vision/submission/Silent-Vision-Poster.png`
 - [x] Demo script and evidence checklist:
   `submissions/track1-silent-vision/submission/demo-video-script.md`
-- [ ] Demo video URL: add after the recorded Radeon run
+- [x] Demo video: `submissions/track1-silent-vision/submission/Silent-Vision-Demo-720p.mp4`
 - [x] Source repository: <https://github.com/fangjixin/silent-vision>
 
 ## Evidence status

@@ -26,7 +26,7 @@ It is not open-vocabulary lipreading.
 | Poster PNG | [`Silent-Vision-Poster.png`](Silent-Vision-Poster.png) | Complete |
 | Poster source copy | [`../docs/submission/poster-copy.md`](../docs/submission/poster-copy.md) | Complete |
 | Demo script and shot checklist | [`demo-video-script.md`](demo-video-script.md) | Ready for recording |
-| Demo video | External URL to be added after recording | Pending |
+| Demo video | [`Silent-Vision-Demo-720p.mp4`](Silent-Vision-Demo-720p.mp4) | Included |
 | Pull request description | [`pull-request-description.md`](pull-request-description.md) | Ready; demo link pending |
 
 The source, catalog, documentation, and generated assets are present. The
@@ -34,7 +34,7 @@ official bilingual Radeon run and frozen final evaluation completed on
 2026-08-06 with evidentiary lineage verified. The untouched final partitions
 produced 12/12 phrase top-1 accuracy, 5/12 known acceptance, and 9/10 unrelated
 rejection. These are personalized, same-speaker fixed-phrase results. The demo
-video remains pending.
+The 720p demo video is included in this submission directory.
 
 Recordings, checkpoints, and private reports are intentionally excluded from the
 public contest bundle.
